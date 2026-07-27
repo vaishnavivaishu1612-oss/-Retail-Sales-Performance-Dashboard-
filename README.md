@@ -39,8 +39,7 @@ This project is an interactive Tableau dashboard built using the Sample Supersto
 
 ## 📷 Dashboard Preview
 
-![Retail Sales Dashboard](Dashboard.png)
-
+![Retail Sales Dashboard](%20Dashboard.png)
 ---
 
 ## 📂 Repository Files
