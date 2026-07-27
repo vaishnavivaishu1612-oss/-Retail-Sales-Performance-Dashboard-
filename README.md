@@ -1,4 +1,4 @@
-# -Retail-Sales-Performance-Dashboard-
+
 # 📊 Retail Sales Performance Dashboard
 
 ## 📌 Project Overview
@@ -37,11 +37,9 @@ This project presents an interactive Tableau dashboard built using the Sample Su
 
 ## 📷 Dashboard Preview
 
-> Upload your exported dashboard image as **Dashboard.png** and replace the line below with:
+## 📷 Dashboard Preview
 
-```markdown
-![Dashboard](Dashboard.png)
-```
+![Retail Sales Dashboard](Dashboard.png)
 
 ---
 
