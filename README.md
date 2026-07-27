@@ -35,11 +35,10 @@ This project presents an interactive Tableau dashboard built using the Sample Su
 
 ---
 
-## 📷 Dashboard Preview
 
 ## 📷 Dashboard Preview
 
-![Retail Sales Dashboard](Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
