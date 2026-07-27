@@ -1,44 +1,50 @@
 # 📊 Retail Sales Performance Dashboard
 
 ## 📌 Project Overview
-This project presents an interactive Tableau dashboard built using the Sample Superstore dataset. The dashboard provides insights into retail sales performance through key performance indicators (KPIs), sales trends, regional analysis, category analysis, and interactive filters to support business decision-making.
+
+This project is an interactive Tableau dashboard built using the Sample Superstore dataset. It provides insights into retail sales performance using key performance indicators (KPIs), sales trends, regional analysis, and interactive filters.
 
 ---
 
-## 🚀 Features
+## 🚀 Dashboard Features
+
 - Total Sales KPI
 - Total Profit KPI
-- Total Orders
-- Average Discount
+- Total Orders KPI
+- Average Discount KPI
 - Sales by Region
 - Sales by State (Map)
 - Monthly Sales Trend
 - Sales by Category
-- Top 10 Products by Sales
-- Interactive Filters (Region, Category, State, and Month)
+- Interactive Filters (Region, Category, State, Month)
 
 ---
 
 ## 🛠️ Tools Used
-- Tableau
+
+- Tableau Desktop
 - Sample Superstore Dataset
 - GitHub
 
 ---
 
 ## 📈 Key Insights
+
 - The West region generated the highest sales.
-- Technology was the top-performing product category.
-- Sales showed an increasing trend toward the end of the year.
-- Interactive filters allow users to analyze sales by region, category, state, and month.
+- Technology was the highest-performing product category.
+- Sales increased toward the end of the year.
+- Users can filter the dashboard by Region, Category, State, and Month for deeper analysis.
 
 ---
 
+## 📷 Dashboard Preview
 
 ![Retail Sales Dashboard](Dashboard.png)
+
 ---
 
-## 📂 Files Included
+## 📂 Repository Files
+
 - `Retail_Sales_Performance_Dashboard.twbx`
 - `Dashboard.png`
 - `README.md`
@@ -46,6 +52,8 @@ This project presents an interactive Tableau dashboard built using the Sample Su
 ---
 
 ## 👩‍💻 Author
+
 **Vaishnavi**
 
+GitHub: https://github.com/vaishnavivaishu1612-oss
 GitHub: https://github.com/vaishnavaivaishu1612
